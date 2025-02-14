@@ -71,5 +71,5 @@ If you have any suggestions or improvements, feel free to **open a pull request*
 If you have any questions, reach out via LinkedIn or GitHub issues!
 
 ---
-### 📃 Author: [Your Name]
+### 📃 Author: [Akhil Danday]
 
